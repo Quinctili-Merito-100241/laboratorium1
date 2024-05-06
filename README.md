@@ -1,0 +1,1 @@
+tworzę zmiany w pliku readme w branchu hotfix
